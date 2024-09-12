@@ -8,5 +8,5 @@
 | [databank_comp](https://github.com/ANET-econ-networks/databank_comp) | Transfer external data to Databank using OPTEN | [![GitHub issues](https://img.shields.io/github/issues/{ANET-econ-networks}/{databank_comp})](https://github.com/ANET-econ-networks/databank_comp/issues) |
 | [geography_MAR](https://github.com/ANET-econ-networks/geography_MAR) | Exploring MAR channels through firm-level networks | [![GitHub issues](https://img.shields.io/github/issues/{ANET-econ-networks}/{geography_MAR})](https://github.com/ANET-econ-networks/geography_MAR/issues) |
 | [product_networks](https://github.com/ANET-econ-networks/product_networks) | Connecting products through supplier ties | [![GitHub issues](https://img.shields.io/github/issues/{ANET-econ-networks}/{product_networks})](https://github.com/ANET-econ-networks/product_networks/issues) |
-| [labow_flow](https://github.com/ANET-econ-networks/labor_flow) | Networks of labor mobility | [![GitHub issues](https://img.shields.io/github/issues/{ANET-econ-networks}/{labor_flow})](https://github.com/ANET-econ-networks/labor_flow/issues) |
+| [labor_flow](https://github.com/ANET-econ-networks/labor_flow) | Networks of labor mobility | [![GitHub issues](https://img.shields.io/github/issues/{ANET-econ-networks}/{labor_flow})](https://github.com/ANET-econ-networks/labor_flow/issues) |
 
